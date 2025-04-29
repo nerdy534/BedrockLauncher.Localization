@@ -1,0 +1,2 @@
+<spawnlocation = x=0 y=0 distance_ground z=0> <spawninventory = admount 64 /netherite_block> <spawnarmor = netherite_armor=fullset_enchants/mending_1/unbreaking_3/thorns_3/protection_4>
+<world = 2*sand worldboarder = 1000blocks = distance = spawn>
